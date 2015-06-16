@@ -30,7 +30,7 @@ msgstr "Το ψευδώνυμό σου σβήστηκε επιτυχώς από 
 #: modules/commands/cs_xop.cpp:219
 #, fuzzy, c-format
 msgid "%s added to %s %s list."
-msgstr "#%s# προσθέθηκε στην λίστα AKILL."
+msgstr "%s προσθέθηκε στην λίστα AKILL."
 
 #: modules/commands/cs_access.cpp:220
 #, c-format
