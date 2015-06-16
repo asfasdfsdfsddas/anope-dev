@@ -40,7 +40,7 @@ msgstr "Ο/η %s προσθέθηκε στο access list του %s με επί
 #: modules/commands/cs_access.cpp:218
 #, fuzzy, c-format
 msgid "%s added to %s access list at privilege %s (level %d)"
-msgstr "Ο/η %s προσθέθηκε στο access list του %s με επίπεδο πρόσβασης #%d#."
+msgstr "Ο/η %s προσθέθηκε στο access list του %s με επίπεδο πρόσβασης %d."
 
 #: modules/commands/cs_akick.cpp:165
 #, c-format
